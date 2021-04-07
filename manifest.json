@@ -1,0 +1,7 @@
+{
+  "name": "Kodi downloader",
+  "description": "Kodi file downloader for Chrome",
+  "version": "1.0",
+  "manifest_version": 3
+}
+
